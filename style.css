@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+nav {
+  float: right;
+}
+
+nav a {
+  display: inline-block;
+  margin-left: 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.hero {
+  background-image: url('hero-image.jpg');
+  background-size: cover;
+  color: #fff;
+  padding: 100px;
+}
+
+.hero h2 {
+  font-size: 48px;
+}
+
+.hero p {
+  font-size: 24px;
+}
+
+.services {
+  padding: 50px;
+}
+
+.services h3 {
+  font-size: 36px;
+}
+
+.services ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services li {
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
